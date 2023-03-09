@@ -4,4 +4,4 @@
 
 👨🏼‍💻👨🏼‍💻👨🏼‍💻
 
-![code](https://raw.githubusercontent.com/jdiego2212/my_web_chef/main/app/static/code.jpeg](https://freepngimg.com/download/alien/2-2-alien-png-clipart.png)
+![code](https://freepngimg.com/download/alien/2-2-alien-png-clipart.png)
